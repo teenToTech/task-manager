@@ -1,4 +1,4 @@
-📝 Task Manager (Python CLI Project)
+# 📝 Task Manager (Python CLI Project)
 
 A simple command-line based Task Manager built using Python.  
 It allows users to add, view, delete, and mark tasks as completed.  
